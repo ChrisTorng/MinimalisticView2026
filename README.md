@@ -14,7 +14,8 @@ This extension is **not** directly converted from the original [poma/Minimalisti
 Instead, it was created by:
 1. Downloading the [MinimalisticView_VS2022.vsix.xlsx](https://github.com/poma/MinimalisticView/files/8843494/MinimalisticView_VS2022.vsix.xlsx) file provided by [lesterlo](https://github.com/lesterlo) in the [Visual Studio 2022 Support](https://github.com/poma/MinimalisticView/issues/18) issue thread
 2. Renaming the `.vsix` file to `.zip` and extracting its contents
-3. Modifying the Visual Studio version requirements to support Visual Studio 2026 Insiders
+3. Modifying the Visual Studio version requirements to support Visual Studio 2026 Insiders and laters
+4. Run `Build-Vsix.ps1` to zip and rename to `.vsix` for installation
 
 ## Original Extension
 
